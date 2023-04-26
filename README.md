@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Olá! Eu sou o 
     <a href="https://www.linkedin.com/in/luizinfected/">Luiz Enrique!</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front-End apaixonado em React.  
+    Sou Desenvolvedor Front-End apaixonado em React, aqui você vai encontrar diversos repositórios. Neles o que mais vai encontrar vai ser sobre React, sempre aprofundando meus conhecimentos e os solidificando meus estudos nos repositórios, você pode acompanhar minha evolução e também ver meu progresso em outras linguagens, sempre estou pesquisando e procurando desenvolver algo novo.  
   </p>
   
     
