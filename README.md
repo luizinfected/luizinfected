@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front-End apaixonado em React, aqui você vai encontrar diversos repositórios. Neles o que mais vai encontrar vai ser sobre React, sempre aprofundando meus conhecimentos e os solidificando meus estudos nos repositórios, você pode acompanhar minha evolução e também ver meu progresso em outras linguagens, sempre estou pesquisando e procurando desenvolver algo novo.  
+    Sou um profissional formado em Cyber Security, e, atualmente, Desenvolvedor FullStack com sólidos conhecimentos em Front-end(ReactJS, NextJS, TS, JavaScript) Back-End (PHP, NodeJS e Python). Estou sempre buscando me aprimorar e adquirir novas habilidades para enfrentar os desafios em constante evolução do mundo da tecnologia. Sou dedicado, extrovertido e motivado, sempre em busca de novos aprendizados e desafios. 
   </p>
   
     
