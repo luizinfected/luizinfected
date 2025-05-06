@@ -8,9 +8,10 @@
  | ----------- | ----------- |
 
  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,express,docker,figma,github,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,postgres,mysql,python,fastapi,aws,ec2,terraform,rds,lambda,vps,iam" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,html,css,javascript,typescript,react,next,vite,tailwind,materialui,bootstrap,nodejs,express,python,fastapi,php,postgres,mysql,docker,terraform,aws,vercel,linux,pnpm" />
 </a>
+
   <br />
 
   </div>
